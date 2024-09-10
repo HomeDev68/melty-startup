@@ -24,3 +24,4 @@ product.overrides.json
 .aider*
 /dist
 ./melty
+.devcontainer/
