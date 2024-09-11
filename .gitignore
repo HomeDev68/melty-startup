@@ -24,4 +24,7 @@ product.overrides.json
 .aider*
 /dist
 ./melty
-.devcontainer/
+.devcontainer/*
+.devcontainer/devcontainer-lock.json
+.devcontainer/devcontainer.json
+.devcontainer/Dockerfile
